@@ -1,4 +1,9 @@
-### Hi there 👋
+### 
+- Student 👩🏻‍🎓
+- Zero coding experience 😛
+- Teaching myself the basics before starting my first college programming class this summer 📚
+
+- 👉🏻👈🏻 Pray 4 me 🫴🏻🫳🏻🫴🏻🫳🏻🫴🏻🫳🏻🫴🏻🫳🏻🫴🏻 ✨
 
 <!--
 **feelstar22/feelstar22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
